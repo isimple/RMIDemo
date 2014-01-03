@@ -1,9 +1,9 @@
-##RMIDemo
+##Description
 
 This project is implemented when I studied "Software Architecture". 
 
 
-##included:
+##Includes
 
 * db: A tiny rmi demo involved db operation
 * client&server: A simple auction system using RMI
